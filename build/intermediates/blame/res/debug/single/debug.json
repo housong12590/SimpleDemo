@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\code\\SimpleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\code\\SimpleDemo\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\code\\SimpleDemo\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\code\\SimpleDemo\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\code\\SimpleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\code\\SimpleDemo\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\code\\SimpleDemo\\build\\intermediates\\res\\merged\\debug\\layout_test_layout.xml.flat",
+        "source": "D:\\code\\SimpleDemo\\res\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "D:\\code\\SimpleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\code\\SimpleDemo\\res\\drawable-mdpi\\icon.png"
+    }
+]

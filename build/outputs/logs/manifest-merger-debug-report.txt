@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\code\SimpleDemo\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\code\SimpleDemo\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\code\SimpleDemo\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\code\SimpleDemo\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:3:11-34
+	android:versionName
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:5:11-36
+		INJECTED from D:\code\SimpleDemo\AndroidManifest.xml
+		INJECTED from D:\code\SimpleDemo\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:4:11-34
+		INJECTED from D:\code\SimpleDemo\AndroidManifest.xml
+		INJECTED from D:\code\SimpleDemo\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAPTURE_AUDIO_OUTPUT
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:9:22-68
+application
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:11:5-24:19
+	android:label
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:12:9-38
+activity#com.test.demo.DemoActivity
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:14:9-21:20
+	android:label
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:19:27-74
+activity#com.test.demo.TestActivity
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:22:19-47
+uses-permission#android.permission.INTERNET
+ADDED from D:\code\SimpleDemo\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from D:\code\SimpleDemo\AndroidManifest.xml:26:22-64
